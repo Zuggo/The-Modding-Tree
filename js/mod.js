@@ -2,7 +2,7 @@ let modInfo = {
 	name: "The Grass Cutting Incremental Tree",
 	id: "gci",
 	author: "Zuggo",
-	pointsName: "points",
+	pointsName: "Grass",
 	modFiles: ["layers.js", "tree.js"],
 
 	discordName: "",
